@@ -1,0 +1,69 @@
+Source:	/home/ra/kicad1/protoboard/protoboard.sch
+Date:	Mo 17 Sep 2018 15:08:03 CEST
+Tool:	Eeschema 5.0.0
+Component Count:	64
+Ref	Value	Part	Footprint	Description	Vendor
+C1	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C2	4.7uF	Device:C	Capacitor_SMD:C_0805_2012Metric	Unpolarized capacitor	
+C3	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C4	1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C5	10uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C6	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C7	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C8	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C9	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C10	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C12	10uF	Device:CP	Capacitor_SMD:C_0603_1608Metric	Polarised capacitor	
+C13	100nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C14	1uF	freetronics_schematic:CAP	Capacitor_SMD:C_0603_1608Metric		
+D1	LED	Device:LED	LED_SMD:LED_0805_2012Metric	LED generic	
+D2	DIODE	freetronics_schematic:DIODE	freetronics_footprints:LED-0805		
+D3	LED	Device:LED	LED_SMD:LED_0805_2012Metric	LED generic	
+D4	DIODE	freetronics_schematic:DIODE	freetronics_footprints:LED-0805		
+D5	LED	Device:LED	LED_SMD:LED_0805_2012Metric	LED generic	
+D6	DIODE	freetronics_schematic:DIODE	freetronics_footprints:LED-0805		
+D7	LED	Device:LED	LED_SMD:LED_0805_2012Metric	LED generic	
+D8	DIODE	freetronics_schematic:DIODE	freetronics_footprints:LED-0805		
+D9	LED	Device:LED	LED_SMD:LED_0805_2012Metric	LED generic	
+J1	external	Connector_Generic:Conn_01x08	Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical	Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J2	ext_vdd	Connector_Generic:Conn_01x04	Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical	Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J3	ext_gnd	Connector_Generic:Conn_01x04	Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical	Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J4	pwr_in	Connector:Conn_01x02_Female	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J5	SWD	Connector_Generic:Conn_02x05_Odd_Even	Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical	Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	
+J6	usart6_header	Connector_Generic:Conn_01x04	Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical	Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J7	usart2_header	Connector_Generic:Conn_01x02	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J8	i2c1_header	Connector_Generic:Conn_01x04	Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical	Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J9	spi1_header	Connector_Generic:Conn_01x07	Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical	Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J10	Conn_01x02_Female	Connector:Conn_01x02_Female	Resistor_SMD:R_0805_2012Metric	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J11	brushed_out	Connector:Conn_01x02_Female	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J12	Conn_01x02_Female	Connector:Conn_01x02_Female	Resistor_SMD:R_0805_2012Metric	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J13	brushed_out	Connector:Conn_01x02_Female	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J14	Conn_01x02_Female	Connector:Conn_01x02_Female	Resistor_SMD:R_0805_2012Metric	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J15	brushed_out	Connector:Conn_01x02_Female	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J16	Conn_01x02_Female	Connector:Conn_01x02_Female	Resistor_SMD:R_0805_2012Metric	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J17	brushed_out	Connector:Conn_01x02_Female	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+Q1	MOSFET_N	freetronics_schematic:MOSFET_N	freetronics_footprints:SOT23_FET		
+Q2	MOSFET_N	freetronics_schematic:MOSFET_N	freetronics_footprints:SOT23_FET		
+Q3	MOSFET_N	freetronics_schematic:MOSFET_N	freetronics_footprints:SOT23_FET		
+Q4	MOSFET_N	freetronics_schematic:MOSFET_N	freetronics_footprints:SOT23_FET		
+R1	10k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R2	1k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R3	500	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R4	1k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R5	500	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R6	1k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R7	500	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R8	1k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R9	500	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R10	500	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R11	100k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R12	100k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R13	100k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R14	100k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R15	1k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R16	1k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+R17	10k	Device:R	Resistor_SMD:R_0805_2012Metric	Resistor	
+SW1	reset	freetronics_schematic:SW_PUSHBUTTON	Button_Switch_THT:Push_E-Switch_KS01Q01		
+SW2	userbutton	freetronics_schematic:SW_PUSHBUTTON	Button_Switch_THT:Push_E-Switch_KS01Q01		
+U1	STM32F401RDTx	MCU_ST_STM32F4:STM32F401RDTx	Package_QFP:LQFP-64_10x10mm_P0.5mm	ARM Cortex-M4 MCU, 384KB flash, 96KB RAM, 84MHz, 1.7-3.6V, 50 GPIO, LQFP-64	
+U2	MCP1700-3302E_TO92	Regulator_Linear:MCP1700-3302E_TO92	teensy:mcp1700	250mA Low Quiscent Current LDO, 3.3V output, TO-92	
